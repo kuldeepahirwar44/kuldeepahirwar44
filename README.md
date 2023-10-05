@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kuldeep Ahirwar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/kuldeepahirwar44/kuldeepahirwar44/assets/120416755/a065e2b9-727c-43f1-be18-64a38384b96b)
-"
+<img align="right" alt="coding" width="400" src="https://github.com/kuldeepahirwar44/kuldeepahirwar44/assets/120416755/a065e2b9-727c-43f1-be18-64a38384b96b" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuldeepahirwar44&label=Profile%20views&color=0e75b6&style=flat" alt="kuldeepahirwar44" /> </p>
 
